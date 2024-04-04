@@ -125,6 +125,7 @@ In this project, several Python libraries such as Pandas, NumPy, and Matplotlib 
 3. Business Simulation
 
    Conversion Rate with No Model: 147/300 = 49%
+
    Conversion Rate with Model: "[Confusion Matrix]" : 144/148 = 97.3%
 
    In the business simulation, we will consider two scenarios based on the results of the machine learning model. The first scenario is without using the machine learning model (baseline), and the second scenario is by implementing the recommendations generated from the machine learning model. We will consider the impact of increasing the conversion rate on the profit from the marketing campaign. Let's assume the marketing costs remain constant, and we want to evaluate how the increase in the conversion rate can affect business outcomes.
