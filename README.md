@@ -21,154 +21,154 @@ In this project, several Python libraries such as Pandas, NumPy, and Matplotlib 
 1. Machine Learning
    - Data Cleaning
 
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
-
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%201.png)
+   
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%202.png)
 
    - Changing Data Types
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%203.png)
 
    - Changing feature names
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
-   
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%204.png)
+      
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%205.png)
    
    - Performing Feature Encoding
       
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
-   
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%206.png)
+      
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%207.png)
       
    - Performing Feature Extraction
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%208.png)
 
    - Selecting features for modeling
       
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%209.png)
 
    - Performing train-test split
       
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
-   
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%2010.png)
+      
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%2011.png)
 
    - Performing Normalization
       
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%2012.png)
 
    - Modeling
       
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%2013.png)
 
    - Creating Confusion Matrix 
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
-   
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%2014.png)
+      
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%2015.png)
 
    - Finding out Feature Importance
 
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%2016.png)
 
 2. Insights
    - Relationship between Age and Clicked on Ad
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%2017.png)
 
-   Conclusion: From the above graph, it can be observed that older individuals are more likely to click on ads than younger individuals, possibly because younger individuals are more cautious in clicking on ads.
+      Conclusion: From the above graph, it can be observed that older individuals are more likely to click on ads than younger individuals, possibly because younger individuals are more cautious in clicking on ads.
 
    - Relationship between Daily Internet Usage and Clicked on Ad
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
-
-   Conclusion: People who spend less time on the internet tend to have a higher tendency to click on ads compared to those who spend more time on the internet.
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%2018.png)
+   
+      Conclusion: People who spend less time on the internet tend to have a higher tendency to click on ads compared to those who spend more time on the internet.
    
    - Relationship between Daily Time Spent on Site and Clicked on Ad
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
-
-   Conclusion: People who spend less time on the Company's Site tend to have a higher tendency to click on ads compared to those who spend more time on the Company's Site. This is because people who spend more time on the company's site usually visit the site directly rather than clicking on ads, so their percentage of ad clicks is likely lower.
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%2019.png)
+   
+      Conclusion: People who spend less time on the Company's Site tend to have a higher tendency to click on ads compared to those who spend more time on the Company's Site. This is because people who spend more time on the company's site usually visit the site directly rather than clicking on ads, so their percentage of ad clicks is likely lower.
    
    - Relationship between Area Income and Clicked on Ad
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
-
-   Conclusion: There are two groups, individuals with an income of approximately +-450 million per year and individuals with an income of approximately +-350 million per year. The first group has a higher click percentage.
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%2020.png)
+   
+      Conclusion: There are two groups, individuals with an income of approximately +-450 million per year and individuals with an income of approximately +-350 million per year. The first group has a higher click percentage.
    
    - Relationship between Daily Internet Usage, Daily Time Spent on Site, and Clicked on Ad
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
-
-   Conclusion: People who fall into the category of spending less time on the internet and less time on the company's site tend to have a higher tendency to click on ads than vice versa.
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%2021.png)
+   
+      Conclusion: People who fall into the category of spending less time on the internet and less time on the company's site tend to have a higher tendency to click on ads than vice versa.
    
    - Relationship between Daily Internet Usage, Age, and Clicked on Ad
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
-
-   Conclusion: Individuals who spend less time on the internet and have a tendency to click on ads are predominantly older individuals (+- 40 years old), while individuals who spend more time on the internet and have a tendency not to click on ads are dominated by younger individuals (+- 30 years old).
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%2022.png)
+   
+      Conclusion: Individuals who spend less time on the internet and have a tendency to click on ads are predominantly older individuals (+- 40 years old), while individuals who spend more time on the internet and have a tendency not to click on ads are dominated by younger individuals (+- 30 years old).
    
    - Relationship between Daily Time Spent on Site, Age, and Clicked on Ad
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
-
-   Conclusion: Individuals who spend less time on the Company's Site and have a tendency to click on ads are predominantly older individuals (+- 40 years old), while individuals who spend more time on the company's site and have a tendency not to click on ads are dominated by younger individuals (+- 30 years old).
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%2023.png)
+   
+      Conclusion: Individuals who spend less time on the Company's Site and have a tendency to click on ads are predominantly older individuals (+- 40 years old), while individuals who spend more time on the company's site and have a tendency not to click on ads are dominated by younger individuals (+- 30 years old).
    
    - Relationship between Area Income, Age, and Clicked on Ad
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
-
-   Conclusion: Individuals with an income of +-300 million per year and have a tendency to click on ads are predominantly older individuals (+- 40 years old), while individuals with an income of +-400 million per year and have a tendency not to click on ads are dominated by younger individuals (+- 30 years old).
+      ![Data Results](https://github.com/AzamFath/predict-customer-clicked-ads-classification/blob/main/fig%2024.png)
+   
+      Conclusion: Individuals with an income of +-300 million per year and have a tendency to click on ads are predominantly older individuals (+- 40 years old), while individuals with an income of +-400 million per year and have a tendency not to click on ads are dominated by younger individuals (+- 30 years old).
 
 3. Business Simulation
 
-Conversion Rate with No Model: 147/300 = 49%
-Conversion Rate with Model: "[Confusion Matrix]" : 144/148 = 97.3%
+   Conversion Rate with No Model: 147/300 = 49%
+   Conversion Rate with Model: "[Confusion Matrix]" : 144/148 = 97.3%
 
-In the business simulation, we will consider two scenarios based on the results of the machine learning model. The first scenario is without using the machine learning model (baseline), and the second scenario is by implementing the recommendations generated from the machine learning model. We will consider the impact of increasing the conversion rate on the profit from the marketing campaign. Let's assume the marketing costs remain constant, and we want to evaluate how the increase in the conversion rate can affect business outcomes.
-
-We will use the following parameters in the simulation:
-
-- Number of Users (Visitors): Here we use the test data as a simulation tool, which is 300 Users.
-- Marketing Cost: The allocated marketing cost is Rp.10,000 per User.
-- Conversion Rate: The conversion rate is the percentage of visitors who click on the ad. The baseline value is 49%, and the estimated value based on the model results is 97.3%.
-- Revenue per Conversion: The revenue earned per conversion (visitor who clicks on the ad) is Rp.14,000.
-
-Scenario 1 (Without Machine Learning Model):
-
-- Number of Users: 300
-- Marketing Cost: Rp.10,000
-- Conversion Rate (Without Model): 49%
-- Revenue per Conversion: Rp.14,000
-- Revenue: Number of Users x Conversion Rate x Revenue per Conversion
-- Cost: Marketing Cost
-- Profit: Revenue - Cost
-
-Scenario 2 (With Machine Learning Model):
-
-- Number of Users: 300
-- Marketing Cost: Rp.10,000
-- Conversion Rate (With Model): 97.3% based on model results
-- Revenue per Conversion: Rp.14,000
-- Revenue: Number of Users x Conversion Rate x Revenue per Conversion
-- Cost: Marketing Cost
-- Profit: Revenue - Cost
-
-With these parameters, we can calculate the cost, revenue, and profit for both scenarios:
-
-Scenario 1 (Without Machine Learning Model):
-
-- Revenue = 300 x 49% x Rp.14,000 = Rp.2,058,000
-- Cost = 300 x Rp.10,000 = Rp.3,000,000
-- Profit = Rp.2,058,000 - Rp.3,000,000 = -Rp.942,000 (loss)
-
-Scenario 2 (With Machine Learning Model):
-
-- Revenue = 300 x 97.3% x Rp.14,000 = Rp.4,086,600
-- Cost = 300 x Rp.10,000 = Rp.3,000,000
-- Profit = Rp.4,086,600 - Rp.3,000,000 = Rp.1,086,600 (Profit)
+   In the business simulation, we will consider two scenarios based on the results of the machine learning model. The first scenario is without using the machine learning model (baseline), and the second scenario is by implementing the recommendations generated from the machine learning model. We will consider the impact of increasing the conversion rate on the profit from the marketing campaign. Let's assume the marketing costs remain constant, and we want to evaluate how the increase in the conversion rate can affect business outcomes.
+   
+   We will use the following parameters in the simulation:
+   
+   - Number of Users (Visitors): Here we use the test data as a simulation tool, which is 300 Users.
+   - Marketing Cost: The allocated marketing cost is Rp.10,000 per User.
+   - Conversion Rate: The conversion rate is the percentage of visitors who click on the ad. The baseline value is 49%, and the estimated value based on the model results is 97.3%.
+   - Revenue per Conversion: The revenue earned per conversion (visitor who clicks on the ad) is Rp.14,000.
+   
+   Scenario 1 (Without Machine Learning Model):
+   
+   - Number of Users: 300
+   - Marketing Cost: Rp.10,000
+   - Conversion Rate (Without Model): 49%
+   - Revenue per Conversion: Rp.14,000
+   - Revenue: Number of Users x Conversion Rate x Revenue per Conversion
+   - Cost: Marketing Cost
+   - Profit: Revenue - Cost
+   
+   Scenario 2 (With Machine Learning Model):
+   
+   - Number of Users: 300
+   - Marketing Cost: Rp.10,000
+   - Conversion Rate (With Model): 97.3% based on model results
+   - Revenue per Conversion: Rp.14,000
+   - Revenue: Number of Users x Conversion Rate x Revenue per Conversion
+   - Cost: Marketing Cost
+   - Profit: Revenue - Cost
+   
+   With these parameters, we can calculate the cost, revenue, and profit for both scenarios:
+   
+   Scenario 1 (Without Machine Learning Model):
+   
+   - Revenue = 300 x 49% x Rp.14,000 = Rp.2,058,000
+   - Cost = 300 x Rp.10,000 = Rp.3,000,000
+   - Profit = Rp.2,058,000 - Rp.3,000,000 = -Rp.942,000 (loss)
+   
+   Scenario 2 (With Machine Learning Model):
+   
+   - Revenue = 300 x 97.3% x Rp.14,000 = Rp.4,086,600
+   - Cost = 300 x Rp.10,000 = Rp.3,000,000
+   - Profit = Rp.4,086,600 - Rp.3,000,000 = Rp.1,086,600 (Profit)
 
 ## Conclusion
 The analysis results indicate that:
@@ -176,8 +176,8 @@ The analysis results indicate that:
 1. From the above analysis, it can be seen that the biggest factors determining whether someone will click on an ad from this dataset are Daily Internet Usage, Daily Time Spent on Site, Area Income, and Age.
 
 2. From the above analysis, it can be seen that there are 2 groups in this dataset:
-   1.) A group aged around 30 years old who spend more time on the internet, spend more time on the company's site, and have an income of around 400 million per year. This group is less likely to click on ads.
-   2.) A group aged around 40 years old who spend less time on the internet, spend less time on the company's site, and have an income of around 300 million per year. This group is more likely to click on ads.
+   1. A group aged around 30 years old who spend more time on the internet, spend more time on the company's site, and have an income of around 400 million per year. This group is less likely to click on ads.
+   2. A group aged around 40 years old who spend less time on the internet, spend less time on the company's site, and have an income of around 300 million per year. This group is more likely to click on ads.
 
 3. From the above analysis, it can be seen that in the first scenario, there is a loss, but in the second scenario with the machine learning model, we gain profit. **This indicates that by implementing the model recommendations, we can gain profit in marketing campaigns.**
 
